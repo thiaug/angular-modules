@@ -1,1 +1,30 @@
 /* Add application styles & imports to this file! */
+body {
+  background-color: #f2f2f2;
+}
+h5 {
+  font-weight: 700;
+  color: #d96704 !important;
+}
+.navbar {
+  background-color: #8c031c;
+}
+.navbar a {
+  color: #f2b279;
+}
+.navbar a:hover {
+  color: #d96704;
+}
+
+.navbar svg {
+  color: #f5e5d7;
+}
+
+.footer-icon svg {
+  color: #bf3604;
+}
+.rodape{
+  position: fixed;
+  bottom: 0;
+  padding: 20px;
+}
